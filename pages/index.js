@@ -111,7 +111,7 @@ export default function Home() {
         <div className="-mt-24 pb-48">
           <div className="max-w-3xl mx-auto text-center pb-4 md:pb-6">
             <h2 className="text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-6">
-              What we do.
+              What We Do
             </h2>
             <p className="text-xl md:text-2xl text-gray-600">
               The Online International Math Competition, or OIMC, will take
