@@ -79,7 +79,7 @@ export default function About() {
             Ryan Shin, Preston Hu, Eric Zhan, and Tanishq Pauskaur <br />
             <br />
             <b>Testsolvers</b>: Angie Huang and Aiden Wen <br /> <br />
-            <b>Webmaster</b>: Ryan Chou, Aidan Lee
+            <b>Webmaster</b>: Ryan Chou and Aidan Lee
           </p>
         </div>
       </div>
